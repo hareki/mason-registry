@@ -2,6 +2,8 @@
   extends: ['github>mason-org/registry-renovate-config'],
   mode: 'full',
   dependencyDashboardApproval: false,
+  automerge: true,
+  automergeType: 'branch',
   packageRules: [
     {
       matchDepNames: ['cucumber-language-server'],
