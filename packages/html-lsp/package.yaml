@@ -1,6 +1,6 @@
 ---
 name: html-lsp
-description: Language Server Protocol implementation for HTMLL
+description: Language Server Protocol implementation for HTML.
 homepage: https://github.com/microsoft/vscode-html-languageservice
 licenses:
   - MIT
