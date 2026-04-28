@@ -13,7 +13,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:npm/%40t1ckbase/vscode-langservers-extracted@1.0.4
+  id: pkg:npm/%40t1ckbase/vscode-langservers-extracted@1.0.5
 
 schemas:
   lsp: vscode:https://raw.githubusercontent.com/microsoft/vscode-eslint/main/package.json
